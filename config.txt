@@ -1,0 +1,6 @@
+version: .Net 6
+app: Web API
+orm: EntityFramework Core 
+pattern: MC (Model - Controller)
+Database: MS SQL Server 2018
+
